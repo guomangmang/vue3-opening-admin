@@ -1,0 +1,1 @@
+import{_ as e,d as t,o as n,a as o}from"./index.968e3af6.js";const r=t({setup(){return{}}});function a(s,u,c,p,_,d){return n(),o("div",null," \u6309\u94AE\u6743\u9650 ")}var i=e(r,[["render",a]]);export{i as default};

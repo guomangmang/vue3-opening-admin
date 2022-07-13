@@ -134,7 +134,7 @@ export const constantRoutes: Array<RouteRecordRaw> = [
     children: [
       {
         path: "user",
-        component: () => import("@/views/user/index.vue"),
+        component: () => import("@/views/system/user/index.vue"),
         name: "SystemUser",
         meta: {
           title: "用户管理",
